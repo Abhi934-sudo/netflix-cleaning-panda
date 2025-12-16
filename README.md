@@ -25,7 +25,15 @@ In this project, I performed the following data cleaning steps on the Netflix da
 - NumPy
 - Jupyter Notebook / Python Script
 
+-
 ---
 
-## 📂 Project Structure
+## 🚀 How to Use This Project
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/Abhi934-sudo/netflix-cleaning-panda.git
+cd netflix-cleaning-panda
+```
+
 
